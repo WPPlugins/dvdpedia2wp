@@ -1,0 +1,2 @@
+<!--BeginRepeat-->[key:media];[key:title];[key:imdb];[key:genre];[key:theatrical];[key:rating]
+<!--EndRepeat-->
